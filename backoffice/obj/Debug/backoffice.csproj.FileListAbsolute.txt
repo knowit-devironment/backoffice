@@ -1,0 +1,16 @@
+C:\Users\olavz\source\repos\backoffice\backoffice\bin\Debug\backoffice.exe.config
+C:\Users\olavz\source\repos\backoffice\backoffice\bin\Debug\backoffice.exe
+C:\Users\olavz\source\repos\backoffice\backoffice\bin\Debug\backoffice.pdb
+C:\Users\olavz\source\repos\backoffice\backoffice\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\olavz\source\repos\backoffice\backoffice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olavz\source\repos\backoffice\backoffice\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\olavz\source\repos\backoffice\backoffice\bin\Debug\WebSocket4Net.dll
+C:\Users\olavz\source\repos\backoffice\backoffice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olavz\source\repos\backoffice\backoffice\obj\Debug\backoffice.csprojAssemblyReference.cache
+C:\Users\olavz\source\repos\backoffice\backoffice\obj\Debug\backoffice.Form1.resources
+C:\Users\olavz\source\repos\backoffice\backoffice\obj\Debug\backoffice.Properties.Resources.resources
+C:\Users\olavz\source\repos\backoffice\backoffice\obj\Debug\backoffice.csproj.GenerateResource.cache
+C:\Users\olavz\source\repos\backoffice\backoffice\obj\Debug\backoffice.csproj.CoreCompileInputs.cache
+C:\Users\olavz\source\repos\backoffice\backoffice\obj\Debug\backoffice.csproj.CopyComplete
+C:\Users\olavz\source\repos\backoffice\backoffice\obj\Debug\backoffice.exe
+C:\Users\olavz\source\repos\backoffice\backoffice\obj\Debug\backoffice.pdb
